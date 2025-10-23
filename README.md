@@ -104,6 +104,10 @@ pip install -r requirements.txt
 # Create environment variables
 .env
 
+# Add your API keys to a .env file:
+OPENAI_API_KEY=your_key_here
+PINECONE_API_KEY=your_key_here
+
 # Run the application
 python app.py
 
@@ -164,3 +168,4 @@ This project is licensed under the MIT License.
 OpenAI – for LLM APIs
 
 Hugging Face – for transformer-based NLP tools
+
