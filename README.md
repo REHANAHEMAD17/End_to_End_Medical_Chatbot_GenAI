@@ -39,6 +39,7 @@ The GenAI Medical Chatbot acts as a virtual health assistant that can
 
 
 🧩 System Architecture
+
 ┌─────────────────────────────┐
                     │        User Interface        │
                     │ (Web / Mobile / Chat Widget) │
@@ -70,6 +71,7 @@ The GenAI Medical Chatbot acts as a virtual health assistant that can
 ---
 
 🧩 Tech Stack
+
 
 Layer	Technology
 
@@ -168,4 +170,5 @@ This project is licensed under the MIT License.
 OpenAI – for LLM APIs
 
 Hugging Face – for transformer-based NLP tools
+
 
